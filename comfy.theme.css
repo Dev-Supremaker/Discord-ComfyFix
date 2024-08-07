@@ -7,7 +7,7 @@
 * @donate https://ko-fi.com/nyria
 */
 
-@import "https://raw.githubusercontent.com/Dev-Supremaker/Discord-ComfyFix/main/comfy.css";
+@import url("https://raw.githubusercontent.com/Dev-Supremaker/Discord-ComfyFix/main/comfy.css");
 
 /* ═══════『 ⚠️・Important tips 』═══════
 *
@@ -186,3 +186,5 @@
   :root {
   --background-message-hover: rgba(0,0,0,0);
 }
+/*Catppuccin Mocha*/
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css")
