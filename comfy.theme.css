@@ -128,6 +128,10 @@
   /* ═══════『 🗑️ Discord logo 』═══════
 *   Set it to "block" if you still want it */
 
+
+  /*Catppuccin Mocha*/
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css")
+  
   /*Campfire*/
 .appMount_ea7e65 .app_bd26cc { opacity: 0; transition: 0.15s;}
 .appMount_ea7e65:hover .app_bd26cc { opacity: 1; transition: 0.15s;}
@@ -186,5 +190,3 @@
   :root {
   --background-message-hover: rgba(0,0,0,0);
 }
-/*Catppuccin Mocha*/
-@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css")
