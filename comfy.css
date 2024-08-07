@@ -1,7 +1,3 @@
-@import url("https://nyri4.github.io/donators/donators.css");
-:root .buttons_d5deea {
-  transition: opacity 150ms;
-}
 #app-mount .panels_a4d4d9 > .container_b2ca13 {
   background: linear-gradient(transparent, var(--background-tertiary) 15%);
   position: fixed;
