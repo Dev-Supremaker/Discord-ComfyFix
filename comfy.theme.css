@@ -18,8 +18,8 @@
 *
 *   ➥ To change the colors, replace the HEX code with the one you picked here : https://htmlcolorcodes.com
 */
-  /*═══════『・Catppuccin Mocha』*/
-@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha-blue.theme.css")
+  /*═══════『 https://github.com/catppuccin/discord ・Catppuccin - Comment the line below if you want the default colors back*/
+@import "https://catppuccin.github.io/discord/dist/catppuccin-mocha-blue.theme.css"
 
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
 @import url("https://comfy-themes.github.io/Discord/betterdiscord/no-scrollbar.css");
